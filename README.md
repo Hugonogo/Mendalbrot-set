@@ -3,6 +3,6 @@
 O código gera uma imagem do conjunto de Mendalbrot, um fractal.
 </p>
 <figure>
-<img src='https://en.wikipedia.org/wiki/File:Mandel_zoom_00_mandelbrot_set.jpg' alt='MendalbrotSet' width=320></img>
+<img src='https://www2.ufjf.br/fractalize/wp-content/uploads/sites/229/2020/12/I1P5-300x225.png' alt='MendalbrotSet' width=320></img>
 <figcaption>Mendalbrot set</figcaption>
 </figure>
